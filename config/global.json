@@ -1,0 +1,9 @@
+{
+    "applicationName" : "lotice",
+    "applicationId": "80ft7bfhzz0w3dj4lhp62kqkr3lplokg2uonvzv5yq4ebdy2",
+    "applicationKey": "huytz2aq1dmp56ljfdy9ifnzguuqycu7wbmq3u5w5juik4p4",
+    "port": 5000,
+    "global": {
+        "avVersion": "0.3.1"
+    }
+}
